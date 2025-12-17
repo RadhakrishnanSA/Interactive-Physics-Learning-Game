@@ -1,7 +1,7 @@
 
   # Interactive Physics Learning Game
 
-  This is a code bundle for Interactive Physics Learning Game. The original project is available at https://www.figma.com/design/rwK4gJVkNGM84fIo4frgTN/Interactive-Physics-Learning-Game.
+ 
 
   ## Running the code
 
